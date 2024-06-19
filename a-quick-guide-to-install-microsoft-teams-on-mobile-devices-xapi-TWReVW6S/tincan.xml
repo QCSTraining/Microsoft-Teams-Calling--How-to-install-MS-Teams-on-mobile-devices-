@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://LGl-X1UnJOghULe3ml36PwkjWrJM9KLV_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">A Quick Guide to Install Microsoft Teams on Mobile Devices</name>
+      <description lang="en-US"></description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://LGl-X1UnJOghULe3ml36PwkjWrJM9KLV_rise/koft1USqx9EdP1CCgRg4nzPfmVHoDxBl" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+        </activities>
+</tincan>
